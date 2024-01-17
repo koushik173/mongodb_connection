@@ -27,7 +27,7 @@ it is being used for configuration the python project it is a alternative of the
 such as the build tool used package name version author license and dependencies
 
 # setup.cfg
-In summary, setup.cfg is used by setuptools to configure the packaging and installation of a Python projec
+In summary, setup.cfg is used by setuptools to configure the packaging and installation of a Python project
 
 # Testing python application
 *types of testing*
